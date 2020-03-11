@@ -3,3 +3,5 @@ Hello Git!
 Name: Cristiane Koshino
 Age: 30
 Favorite Color: Orange
+
+as Rihanna would say: Work,work,work,work,work!
